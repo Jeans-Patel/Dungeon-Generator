@@ -1,2 +1,8 @@
-# Dungeon-Generator
-A dungeon generator for a dungeon master for a very popular game called Dungeons and Dragons.
+Name: 		Jeans Patel
+
+Email: 		jeans@uoguelph.ca
+
+Student ID: 1053172
+
+I did the work for this assignment on my own and without copying work from any other sources.
+
